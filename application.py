@@ -86,7 +86,7 @@ welcome = """
     bottom: 0px;
     left: 50%;
 
-    background-color: #E0E0E0;
+    background-color: #A8541B;
   }
 
   h1 {
@@ -110,7 +110,7 @@ welcome = """
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>Congratulations</h1>
+    <h1>Catch Me If You Can! :D</h1>
     <p>Your first AWS Elastic Beanstalk Python Application is now running on your own dedicated environment in the AWS Cloud</p>
   </div>
   
